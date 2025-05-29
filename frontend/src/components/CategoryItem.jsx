@@ -17,6 +17,7 @@ const CategoryItem = ({ category }) => {
 						<p className='text-gray-200 text-sm'>Explore {category.name}</p>
 					</div>
 				</div>
+                
 			</Link>
 		</div>
 	);
