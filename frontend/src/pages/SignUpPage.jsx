@@ -89,7 +89,7 @@ const SignUpPage = () => {
 									rounded-md shadow-sm
 									 placeholder-gray-400 focus:outline-none focus:ring-emerald-500 
 									 focus:border-emerald-500 sm:text-sm"
-                  placeholder="henryyazzhini@gmail.com"
+                  placeholder="yourname@gmail.com"
                 />
               </div>
             </div>

@@ -58,7 +58,7 @@ const LoginPage = () => {
 									rounded-md shadow-sm
 									 placeholder-gray-400 focus:outline-none focus:ring-emerald-500 
 									 focus:border-emerald-500 sm:text-sm"
-                  placeholder="henryyazzhini@example.com"
+                  placeholder="yourname@example.com"
                 />
               </div>
             </div>
